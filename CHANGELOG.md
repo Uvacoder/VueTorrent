@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.20.0](https://github.com/WDaan/VueTorrent/compare/v0.19.1...v0.20.0) (2022-11-09)
+
+
+### Features
+
+* add max_ratio_act handling ([#523](https://github.com/WDaan/VueTorrent/issues/523)) [@giacomocerquone](https://github.com/giacomocerquone) ([b05dcd0](https://github.com/WDaan/VueTorrent/commit/b05dcd0569e526f66420c9e2d30ef5f4e9fc864b))
+
+
+### Bug Fixes
+
+* copy to clipboard on non secure context (no SSL) [#521](https://github.com/WDaan/VueTorrent/issues/521) ([058766f](https://github.com/WDaan/VueTorrent/commit/058766f617e39f57bd56d68557b32797d70d4947))
+* replace v-html with conditional rendering in torrent details view ([#513](https://github.com/WDaan/VueTorrent/issues/513)) ([6d873e7](https://github.com/WDaan/VueTorrent/commit/6d873e76fc63544673bda673ff377c0b9b810706))
+
 ### [0.19.1](https://github.com/WDaan/VueTorrent/compare/v0.19.0...v0.19.1) (2022-10-11)
 
 
